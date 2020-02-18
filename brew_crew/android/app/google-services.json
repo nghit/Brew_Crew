@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "831051292698",
+    "firebase_url": "https://nghi-brew-crew.firebaseio.com",
+    "project_id": "nghi-brew-crew",
+    "storage_bucket": "nghi-brew-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831051292698:android:281f6368d31f90b82271a3",
+        "android_client_info": {
+          "package_name": "com.nghi.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831051292698-kh3216spsodobvdvks5ghekbo7m2epps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8jqax-h00mG039T4TA-GNGaRPOv73y3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831051292698-kh3216spsodobvdvks5ghekbo7m2epps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
