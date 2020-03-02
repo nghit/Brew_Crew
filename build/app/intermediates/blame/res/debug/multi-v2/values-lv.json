@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/nghitran/Documents/Brew Crew/brew_crew/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-lv/values-lv.xml",
+            "outputFile": "/Users/nghitran/Documents/GitHub/brew_crew/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-lv/values-lv.xml",
             "map": [
                 {
                     "source": "/Users/nghitran/.gradle/caches/transforms-2/files-2.1/dfda874e59ae708b9dea8d783cda1c4f/play-services-base-17.0.0/res/values-lv/values.xml",

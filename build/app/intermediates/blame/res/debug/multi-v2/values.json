@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/nghitran/Documents/Brew Crew/brew_crew/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/nghitran/Documents/GitHub/brew_crew/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/Users/nghitran/.gradle/caches/transforms-2/files-2.1/4516e940d4be20e1967b4b0168e35841/coordinatorlayout-1.0.0/res/values/values.xml",
@@ -61,6 +61,23 @@
                     }
                 },
                 {
+                    "source": "/Users/nghitran/Documents/GitHub/brew_crew/build/app/generated/res/google-services/debug/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,199,308,390,494,603,723,821",
+                        "endColumns": "143,108,81,103,108,119,97,74",
+                        "endOffsets": "194,303,385,489,598,718,816,891"
+                    },
+                    "to": {
+                        "startLines": "67,68,69,70,71,72,73,74",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "5528,5672,5781,5863,5967,6076,6196,6294",
+                        "endColumns": "143,108,81,103,108,119,97,74",
+                        "endOffsets": "5667,5776,5858,5962,6071,6191,6289,6364"
+                    }
+                },
+                {
                     "source": "/Users/nghitran/.gradle/caches/transforms-2/files-2.1/83c8d6ee4054c2f30439a94595afe016/jetified-play-services-basement-17.0.0/res/values/values.xml",
                     "from": {
                         "startLines": "4,7",
@@ -78,7 +95,7 @@
                     }
                 },
                 {
-                    "source": "/Users/nghitran/Documents/Brew Crew/brew_crew/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/nghitran/Documents/GitHub/brew_crew/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -94,23 +111,6 @@
                         "endLines": "80",
                         "endColumns": "12",
                         "endOffsets": "6732"
-                    }
-                },
-                {
-                    "source": "/Users/nghitran/Documents/Brew Crew/brew_crew/build/app/generated/res/google-services/debug/values/values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,199,308,390,494,603,723,821",
-                        "endColumns": "143,108,81,103,108,119,97,74",
-                        "endOffsets": "194,303,385,489,598,718,816,891"
-                    },
-                    "to": {
-                        "startLines": "67,68,69,70,71,72,73,74",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "5528,5672,5781,5863,5967,6076,6196,6294",
-                        "endColumns": "143,108,81,103,108,119,97,74",
-                        "endOffsets": "5667,5776,5858,5962,6071,6191,6289,6364"
                     }
                 }
             ]

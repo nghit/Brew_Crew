@@ -12,8 +12,8 @@
 12         to allow setting breakpoints, to provide hot reload, etc.
 13    -->
 14    <uses-permission android:name="android.permission.INTERNET" />
-14-->/Users/nghitran/Documents/Brew Crew/brew_crew/android/app/src/debug/AndroidManifest.xml:6:5-66
-14-->/Users/nghitran/Documents/Brew Crew/brew_crew/android/app/src/debug/AndroidManifest.xml:6:22-64
+14-->/Users/nghitran/Documents/GitHub/brew_crew/android/app/src/debug/AndroidManifest.xml:6:5-66
+14-->/Users/nghitran/Documents/GitHub/brew_crew/android/app/src/debug/AndroidManifest.xml:6:22-64
 15    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
 16    <!-- <uses-sdk android:minSdkVersion="14" /> -->
 17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
@@ -27,39 +27,39 @@
 23         FlutterApplication and put your custom class here.
 24    -->
 25    <application
-25-->/Users/nghitran/Documents/Brew Crew/brew_crew/android/app/src/main/AndroidManifest.xml:8:5-29:19
+25-->/Users/nghitran/Documents/GitHub/brew_crew/android/app/src/main/AndroidManifest.xml:8:5-29:19
 26        android:name="io.flutter.app.FlutterApplication"
-26-->/Users/nghitran/Documents/Brew Crew/brew_crew/android/app/src/main/AndroidManifest.xml:9:9-57
+26-->/Users/nghitran/Documents/GitHub/brew_crew/android/app/src/main/AndroidManifest.xml:9:9-57
 27        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 27-->[androidx.core:core:1.0.0] /Users/nghitran/.gradle/caches/transforms-2/files-2.1/6caa6b80d259d0c25418eedbd88df9be/core-1.0.0/AndroidManifest.xml:22:18-86
 28        android:debuggable="true"
 29        android:icon="@mipmap/ic_launcher"
-29-->/Users/nghitran/Documents/Brew Crew/brew_crew/android/app/src/main/AndroidManifest.xml:11:9-43
+29-->/Users/nghitran/Documents/GitHub/brew_crew/android/app/src/main/AndroidManifest.xml:11:9-43
 30        android:label="brew_crew" >
-30-->/Users/nghitran/Documents/Brew Crew/brew_crew/android/app/src/main/AndroidManifest.xml:10:9-34
+30-->/Users/nghitran/Documents/GitHub/brew_crew/android/app/src/main/AndroidManifest.xml:10:9-34
 31        <activity
-31-->/Users/nghitran/Documents/Brew Crew/brew_crew/android/app/src/main/AndroidManifest.xml:12:9-23:20
+31-->/Users/nghitran/Documents/GitHub/brew_crew/android/app/src/main/AndroidManifest.xml:12:9-23:20
 32            android:name="com.example.brew_crew.MainActivity"
-32-->/Users/nghitran/Documents/Brew Crew/brew_crew/android/app/src/main/AndroidManifest.xml:13:13-41
+32-->/Users/nghitran/Documents/GitHub/brew_crew/android/app/src/main/AndroidManifest.xml:13:13-41
 33            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
-33-->/Users/nghitran/Documents/Brew Crew/brew_crew/android/app/src/main/AndroidManifest.xml:16:13-163
+33-->/Users/nghitran/Documents/GitHub/brew_crew/android/app/src/main/AndroidManifest.xml:16:13-163
 34            android:hardwareAccelerated="true"
-34-->/Users/nghitran/Documents/Brew Crew/brew_crew/android/app/src/main/AndroidManifest.xml:17:13-47
+34-->/Users/nghitran/Documents/GitHub/brew_crew/android/app/src/main/AndroidManifest.xml:17:13-47
 35            android:launchMode="singleTop"
-35-->/Users/nghitran/Documents/Brew Crew/brew_crew/android/app/src/main/AndroidManifest.xml:14:13-43
+35-->/Users/nghitran/Documents/GitHub/brew_crew/android/app/src/main/AndroidManifest.xml:14:13-43
 36            android:theme="@style/LaunchTheme"
-36-->/Users/nghitran/Documents/Brew Crew/brew_crew/android/app/src/main/AndroidManifest.xml:15:13-47
+36-->/Users/nghitran/Documents/GitHub/brew_crew/android/app/src/main/AndroidManifest.xml:15:13-47
 37            android:windowSoftInputMode="adjustResize" >
-37-->/Users/nghitran/Documents/Brew Crew/brew_crew/android/app/src/main/AndroidManifest.xml:18:13-55
+37-->/Users/nghitran/Documents/GitHub/brew_crew/android/app/src/main/AndroidManifest.xml:18:13-55
 38            <intent-filter>
-38-->/Users/nghitran/Documents/Brew Crew/brew_crew/android/app/src/main/AndroidManifest.xml:19:13-22:29
+38-->/Users/nghitran/Documents/GitHub/brew_crew/android/app/src/main/AndroidManifest.xml:19:13-22:29
 39                <action android:name="android.intent.action.MAIN" />
-39-->/Users/nghitran/Documents/Brew Crew/brew_crew/android/app/src/main/AndroidManifest.xml:20:17-68
-39-->/Users/nghitran/Documents/Brew Crew/brew_crew/android/app/src/main/AndroidManifest.xml:20:25-66
+39-->/Users/nghitran/Documents/GitHub/brew_crew/android/app/src/main/AndroidManifest.xml:20:17-68
+39-->/Users/nghitran/Documents/GitHub/brew_crew/android/app/src/main/AndroidManifest.xml:20:25-66
 40
 41                <category android:name="android.intent.category.LAUNCHER" />
-41-->/Users/nghitran/Documents/Brew Crew/brew_crew/android/app/src/main/AndroidManifest.xml:21:17-76
-41-->/Users/nghitran/Documents/Brew Crew/brew_crew/android/app/src/main/AndroidManifest.xml:21:27-74
+41-->/Users/nghitran/Documents/GitHub/brew_crew/android/app/src/main/AndroidManifest.xml:21:17-76
+41-->/Users/nghitran/Documents/GitHub/brew_crew/android/app/src/main/AndroidManifest.xml:21:27-74
 42            </intent-filter>
 43        </activity>
 44        <!--
@@ -67,38 +67,38 @@
 46             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
 47        -->
 48        <meta-data
-48-->/Users/nghitran/Documents/Brew Crew/brew_crew/android/app/src/main/AndroidManifest.xml:26:9-28:33
+48-->/Users/nghitran/Documents/GitHub/brew_crew/android/app/src/main/AndroidManifest.xml:26:9-28:33
 49            android:name="flutterEmbedding"
-49-->/Users/nghitran/Documents/Brew Crew/brew_crew/android/app/src/main/AndroidManifest.xml:27:13-44
+49-->/Users/nghitran/Documents/GitHub/brew_crew/android/app/src/main/AndroidManifest.xml:27:13-44
 50            android:value="2" />
-50-->/Users/nghitran/Documents/Brew Crew/brew_crew/android/app/src/main/AndroidManifest.xml:28:13-30
+50-->/Users/nghitran/Documents/GitHub/brew_crew/android/app/src/main/AndroidManifest.xml:28:13-30
 51
 52        <service
-52-->[:firebase_auth] /Users/nghitran/Documents/Brew Crew/brew_crew/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+52-->[:firebase_auth] /Users/nghitran/Documents/GitHub/brew_crew/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
 53            android:name="com.google.firebase.components.ComponentDiscoveryService"
-53-->[:firebase_auth] /Users/nghitran/Documents/Brew Crew/brew_crew/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:8:18-89
+53-->[:firebase_auth] /Users/nghitran/Documents/GitHub/brew_crew/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:8:18-89
 54            android:directBootAware="true"
 54-->[com.google.firebase:firebase-common:19.3.0] /Users/nghitran/.gradle/caches/transforms-2/files-2.1/989548aa55c468af8c2095faeeefd3fb/jetified-firebase-common-19.3.0/AndroidManifest.xml:34:13-43
 55            android:exported="false" >
 55-->[com.google.firebase:firebase-auth:17.0.0] /Users/nghitran/.gradle/caches/transforms-2/files-2.1/02badfb83efcc06d54ad77a7ee54c1c9/jetified-firebase-auth-17.0.0/AndroidManifest.xml:35:13-37
 56            <meta-data
-56-->[:firebase_auth] /Users/nghitran/Documents/Brew Crew/brew_crew/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+56-->[:firebase_auth] /Users/nghitran/Documents/GitHub/brew_crew/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
 57                android:name="com.google.firebase.components:io.flutter.plugins.firebaseauth.FlutterFirebaseAppRegistrar"
-57-->[:firebase_auth] /Users/nghitran/Documents/Brew Crew/brew_crew/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-122
+57-->[:firebase_auth] /Users/nghitran/Documents/GitHub/brew_crew/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-122
 58                android:value="com.google.firebase.components.ComponentRegistrar" />
-58-->[:firebase_auth] /Users/nghitran/Documents/Brew Crew/brew_crew/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+58-->[:firebase_auth] /Users/nghitran/Documents/GitHub/brew_crew/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
 59            <meta-data
-59-->[:cloud_firestore] /Users/nghitran/Documents/Brew Crew/brew_crew/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+59-->[:cloud_firestore] /Users/nghitran/Documents/GitHub/brew_crew/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
 60                android:name="com.google.firebase.components:io.flutter.plugins.firebase.cloudfirestore.FlutterFirebaseAppRegistrar"
-60-->[:cloud_firestore] /Users/nghitran/Documents/Brew Crew/brew_crew/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-133
+60-->[:cloud_firestore] /Users/nghitran/Documents/GitHub/brew_crew/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-133
 61                android:value="com.google.firebase.components.ComponentRegistrar" />
-61-->[:cloud_firestore] /Users/nghitran/Documents/Brew Crew/brew_crew/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+61-->[:cloud_firestore] /Users/nghitran/Documents/GitHub/brew_crew/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
 62            <meta-data
-62-->[:firebase_core] /Users/nghitran/Documents/Brew Crew/brew_crew/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+62-->[:firebase_core] /Users/nghitran/Documents/GitHub/brew_crew/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
 63                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseAppRegistrar"
-63-->[:firebase_core] /Users/nghitran/Documents/Brew Crew/brew_crew/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-123
+63-->[:firebase_core] /Users/nghitran/Documents/GitHub/brew_crew/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-123
 64                android:value="com.google.firebase.components.ComponentRegistrar" />
-64-->[:firebase_core] /Users/nghitran/Documents/Brew Crew/brew_crew/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+64-->[:firebase_core] /Users/nghitran/Documents/GitHub/brew_crew/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
 65            <meta-data
 65-->[com.google.firebase:firebase-auth:17.0.0] /Users/nghitran/.gradle/caches/transforms-2/files-2.1/02badfb83efcc06d54ad77a7ee54c1c9/jetified-firebase-auth-17.0.0/AndroidManifest.xml:36:13-38:85
 66                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
