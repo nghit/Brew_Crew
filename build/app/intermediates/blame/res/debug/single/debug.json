@@ -4,16 +4,20 @@
         "source": "/Users/nghitran/.gradle/caches/transforms-2/files-2.1/6caa6b80d259d0c25418eedbd88df9be/core-1.0.0/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
     },
     {
+        "merged": "/Users/nghitran/Documents/GitHub/brew_crew/build/app/intermediates/res/merged/debug/mipmap-mdpi_launcher_icon.png.flat",
+        "source": "/Users/nghitran/Documents/GitHub/brew_crew/android/app/src/main/res/mipmap-mdpi/launcher_icon.png"
+    },
+    {
         "merged": "/Users/nghitran/Documents/GitHub/brew_crew/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
         "source": "/Users/nghitran/.gradle/caches/transforms-2/files-2.1/6caa6b80d259d0c25418eedbd88df9be/core-1.0.0/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
     },
     {
-        "merged": "/Users/nghitran/Documents/GitHub/brew_crew/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "/Users/nghitran/.gradle/caches/transforms-2/files-2.1/dfda874e59ae708b9dea8d783cda1c4f/play-services-base-17.0.0/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
-    },
-    {
         "merged": "/Users/nghitran/Documents/GitHub/brew_crew/build/app/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_dark.xml.flat",
         "source": "/Users/nghitran/.gradle/caches/transforms-2/files-2.1/dfda874e59ae708b9dea8d783cda1c4f/play-services-base-17.0.0/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/nghitran/Documents/GitHub/brew_crew/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/Users/nghitran/.gradle/caches/transforms-2/files-2.1/dfda874e59ae708b9dea8d783cda1c4f/play-services-base-17.0.0/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "/Users/nghitran/Documents/GitHub/brew_crew/build/app/intermediates/res/merged/debug/drawable_notification_tile_bg.xml.flat",
@@ -102,6 +106,14 @@
     {
         "merged": "/Users/nghitran/Documents/GitHub/brew_crew/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_googleg_disabled_color_18.png.flat",
         "source": "/Users/nghitran/.gradle/caches/transforms-2/files-2.1/dfda874e59ae708b9dea8d783cda1c4f/play-services-base-17.0.0/res/drawable-xhdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/nghitran/Documents/GitHub/brew_crew/build/app/intermediates/res/merged/debug/mipmap-xxxhdpi_launcher_icon.png.flat",
+        "source": "/Users/nghitran/Documents/GitHub/brew_crew/android/app/src/main/res/mipmap-xxxhdpi/launcher_icon.png"
+    },
+    {
+        "merged": "/Users/nghitran/Documents/GitHub/brew_crew/build/app/intermediates/res/merged/debug/mipmap-xxhdpi_launcher_icon.png.flat",
+        "source": "/Users/nghitran/Documents/GitHub/brew_crew/android/app/src/main/res/mipmap-xxhdpi/launcher_icon.png"
     },
     {
         "merged": "/Users/nghitran/Documents/GitHub/brew_crew/build/app/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_light_focused.xml.flat",
@@ -244,6 +256,10 @@
         "source": "/Users/nghitran/.gradle/caches/transforms-2/files-2.1/dfda874e59ae708b9dea8d783cda1c4f/play-services-base-17.0.0/res/color/common_google_signin_btn_text_dark.xml"
     },
     {
+        "merged": "/Users/nghitran/Documents/GitHub/brew_crew/build/app/intermediates/res/merged/debug/mipmap-hdpi_launcher_icon.png.flat",
+        "source": "/Users/nghitran/Documents/GitHub/brew_crew/android/app/src/main/res/mipmap-hdpi/launcher_icon.png"
+    },
+    {
         "merged": "/Users/nghitran/Documents/GitHub/brew_crew/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
         "source": "/Users/nghitran/.gradle/caches/transforms-2/files-2.1/6caa6b80d259d0c25418eedbd88df9be/core-1.0.0/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
     },
@@ -254,6 +270,10 @@
     {
         "merged": "/Users/nghitran/Documents/GitHub/brew_crew/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
         "source": "/Users/nghitran/.gradle/caches/transforms-2/files-2.1/dfda874e59ae708b9dea8d783cda1c4f/play-services-base-17.0.0/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/nghitran/Documents/GitHub/brew_crew/build/app/intermediates/res/merged/debug/mipmap-xhdpi_launcher_icon.png.flat",
+        "source": "/Users/nghitran/Documents/GitHub/brew_crew/android/app/src/main/res/mipmap-xhdpi/launcher_icon.png"
     },
     {
         "merged": "/Users/nghitran/Documents/GitHub/brew_crew/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
