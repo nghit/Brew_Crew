@@ -33,20 +33,24 @@ class Home extends StatelessWidget {
           actions: <Widget>[
             FlatButton.icon(
               icon: Icon(Icons.person),
-              label: Text('Sign Out'),
+              label: Text('logout'),
               onPressed: () async {
                 await _auth.signOut();
               },
             ),
             FlatButton.icon(
               icon: Icon(Icons.settings),
-              label: Text('Settings'),
+              label: Text('settings'),
               onPressed: () => _showSettingsPanel(),
             )
           ],
         ),
         body: Container(
           decoration: BoxDecoration(
+            image: DecorationImage(
+              image: AssetImage('assets/coffee_bg.png'),
+              fit: BoxFit.cover,
+            ),
           ),
           child: BrewList()
         ),
