@@ -1,6 +1,6 @@
 # compiler: R8
 # compiler_version: 1.5.64
-# min_api: 21
+# min_api: 18
 # pg_map_id: 1e256c3
 androidx.arch.core.executor.ArchTaskExecutor -> a.a.a.a.a:
     androidx.arch.core.executor.ArchTaskExecutor sInstance -> c
