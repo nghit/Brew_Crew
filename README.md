@@ -6,3 +6,5 @@ Brew Crew is a mobile app that keeps track on team members’ brew preferences a
 
 Landing Page: https://nghit.github.io/BrewCrewLandingPage/
 
+Google Play: https://play.google.com/store/apps/details?id=com.nghi.brew_crew
+
